@@ -1,8 +1,8 @@
 ## 扰动效果图
-![picture](https://github.com/ltxtyy/USP/blob/main/images/picture.png?raw=true)
+![picture](https://github.com/ltxtyy/USP/blob/main/UniversalSpongePatch/images/picture.png)
 
 ## 训练流程图
-![pipeline](https://github.com/ltxtyy/USP/blob/main/images/pipeline.png?raw=true)
+![pipeline](https://github.com/ltxtyy/USP/blob/main/UniversalSpongePatch/images/pipeline.png)
 
 
 ## 准备过程
