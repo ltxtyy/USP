@@ -6,16 +6,15 @@
 
 
 ## 准备过程
-#### 下载数据集（选一个）
-* [Berkeley DeepDrive (BDD)](https://doc.bdd100k.com/download.html#k-images)
-* [Tsinghua‐Tencent 100K (TT)](https://cg.cs.tsinghua.edu.cn/traffic-sign)
-* [PASCAL VOC (VOC 2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
-
 #### 安装依赖包
 `conda create -n USP python=3.9`
 
 `pip install -r requirements.txt`
 
+#### 下载数据集（选一个）
+* [Berkeley DeepDrive (BDD)](https://doc.bdd100k.com/download.html#k-images)
+* [Tsinghua‐Tencent 100K (TT)](https://cg.cs.tsinghua.edu.cn/traffic-sign)
+* [PASCAL VOC (VOC 2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
 
 #### 下载YOLO权重文件（local_yolo/）（选一个）
 * [YOLOv3](https://github.com/ultralytics/yolov3/releases/download/v9.6.0/yolov3.pt)
