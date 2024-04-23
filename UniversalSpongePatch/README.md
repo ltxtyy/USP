@@ -1,7 +1,8 @@
 ## 扰动效果图
-
+![picture](https://github.com/ltxtyy/USP/blob/main/images/picture.png?raw=true)
 
 ## 训练流程图
+![pipeline](https://github.com/ltxtyy/USP/blob/main/images/pipeline.png?raw=true)
 
 
 ## 准备过程
