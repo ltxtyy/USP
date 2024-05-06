@@ -6,5 +6,5 @@
 ### 目录介绍
 UniversalSpongePatch/ —— 训练/验证代码
 
-web/ —— 搭建网站评估
+web/ —— 搭建评估网站
 
