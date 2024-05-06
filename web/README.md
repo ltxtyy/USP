@@ -2,11 +2,11 @@
 
 最终效果：
 
-![在这里插入图片描述]()
+![在这里插入图片描述](https://github.com/ltxtyy/USP/blob/main/web/image/effect-1.png)
 
 上传对应的模型和数据集后的效果：
 
-![在这里插入图片描述]()
+![在这里插入图片描述](https://github.com/ltxtyy/USP/blob/main/web/image/effect-2.png)
 
 # 2. 启动项目：
 
